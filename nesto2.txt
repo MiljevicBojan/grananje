@@ -1,1 +1,8 @@
-neke linije magicnog koda
+napraviti repository na github
+clone-ovati ga na vas racunar
+dodati tekstualni fajn u njega
+pushovati promene online
+obrisati file online na github-u
+Pullovati sve promene sa github-a 
+napraviti novu granu i u njoj dodati jedan novi fajl
+Merge-ovati tu granu sa glavnom granom
